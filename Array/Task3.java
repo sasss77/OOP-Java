@@ -1,5 +1,7 @@
 
 
+
+
 public class Task3 {
     public static void main(String[] args) {
         int[] arg = { 22, 33, 44, 55, 66, 77, 101, 202, 403, 899 };
@@ -30,5 +32,7 @@ public class Task3 {
             }
             }
             System.out.println("Min value is " + min);
+            
         }
     }
+ 
