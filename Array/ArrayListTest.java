@@ -11,6 +11,10 @@ public class ArrayListTest {
         {
             System.out.println(numbers.get(j));
             j++;
-        }}
+        }
+        for (int e : numbers) {
+            System.out.println(e);    
+        }
+    }
     }
 
