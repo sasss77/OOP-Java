@@ -1,6 +1,11 @@
 // package CONSTRUCTOR;
 class Laptop {
-    private String brand;
+    /*
+    private properties can be changed outside of the class
+    using either Constructor or Setter function
+     */
+    
+    private String brand;  
     private int price;
     private int ram;
     public int discount;
@@ -41,3 +46,4 @@ public class ConstructorTask {
         System.out.println("The total price after discount for laptop3 is " + laptop3.totalPrice());
     }
 }
+     
