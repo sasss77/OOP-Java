@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class RectangleClass {
     private int length, breadth;
     public int area;
@@ -32,22 +31,4 @@ public class Task1 {
         System.out.println("The perimeter of rectangle is " + o1.calculatePerimeter());
 
     }
-=======
-public class Task1 {
-    public static void main(String[] args)
-    {
-        // System.out.println("+");
-        // System.out.println("++");
-        // System.out.println("+++");
-        // System.out.println("++++");
-        // System.out.println("+++++");
-        // System.out.println("++++++\n\n\n");
-
-        System.out.println("+\n++\n+++\n++++\n+++++");
-        
-        System.out.println("Java\"s Object Oriented Language\nIs very featureful\nIt\'s very fast, secure.");
-        
-    }
-    
->>>>>>> 43c8165072b291ec027eccff0d46ec3188b0b968
 }
